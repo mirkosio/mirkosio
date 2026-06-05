@@ -6,15 +6,13 @@
 
 # Mirko
 
-![](https://img.shields.io/badge/ITIS%20Dalmine%20Marconi-student-111111?style=flat-square)
-
 <br/>
 
-[![](https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=git,github,linux,bash,nodejs,arduino,vscode,figma&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=kali,arch,ubuntu,windows&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=windows,cachyos,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -26,20 +24,11 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mirkosio&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkosio&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="150"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mirkosio&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555"/>
-
-<br/>
-
 [![Discord](https://img.shields.io/badge/Discord-mirkosio-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/mirkosio)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-055__mirko-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/055_mirko)
 
-<br/><br/>
+<br/>
 
 <sub><i>"I am the number one most impactful artist of our generation, i am shakespeare in the flesh,<br/>walt disney... nike... google... Now who's gonna be the Medici family, and stand up and let me create more?"</i></sub>
 
