@@ -9,7 +9,7 @@
 
 [![](https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=git,github,linux,bash,nodejs,arduino,vscode&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,linux,bash,arduino,vscode&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=obsidian,photoshop,figma,powershell,visualstudio,md&theme=dark)](https://skillicons.dev)
 
