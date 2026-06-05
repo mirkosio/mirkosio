@@ -6,7 +6,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,js,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
