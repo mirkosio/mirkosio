@@ -41,8 +41,8 @@
 
 <br/><br/>
 
-<sub><i>"I am the number one most impactful artist of our generation, i am shakespeare in the flesh,<br/>walt disney... nike... google... now who's gonna be the Medici family, and stand up and let me create more?"</i></sub>
+<sub><i>"I am the number one most impactful artist of our generation, i am shakespeare in the flesh,<br/>walt disney... nike... google... Now who's gonna be the Medici family, and stand up and let me create more?"</i></sub>
 
-<sub>— Kanye West</sub>
+<sub>— Ye</sub>
 
 </div>
