@@ -12,7 +12,7 @@
 
 [![](https://skillicons.dev/icons?i=git,github,linux,bash,nodejs,arduino,vscode,figma&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=windows,cachyos,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
 
 <br/>
 
