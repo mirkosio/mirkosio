@@ -1,5 +1,5 @@
 <div align="center">
-
+  <img src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png" width="128" alt="CachyOS logo"></img>
 # mirkosio
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdnaDNrOHNvZmE0amlyYzN1MGhxMWxpcno3cnN3eXMwaDIwYWo3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9JKsHZJ76UlhTGqjIp/giphy.gif" width="40%"/>
