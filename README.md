@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/-web%20dev-111?style=flat-square)
 ![](https://img.shields.io/badge/-automation-111?style=flat-square)
 ![](https://img.shields.io/badge/-AI-111?style=flat-square)
-![](https://img.shields.io/badge/-OS%20internals-111?style=flat-square)
 
 <br/>
 
