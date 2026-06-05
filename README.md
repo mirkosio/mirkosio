@@ -7,11 +7,11 @@
 <br/>
 
 
-[![](https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=git,github,linux,bash,nodejs,arduino,vscode&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=obsidian,photoshop,figma,powershell,visualstudio,md,github&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=obsidian,photoshop,figma,powershell,visualstudio,md&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
 
