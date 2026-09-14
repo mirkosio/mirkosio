@@ -2,7 +2,7 @@
 
 # mirkosio
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdnaDNrOHNvZmE0amlyYzN1MGhxMWxpcno3cnN3eXMwaDIwYWo3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9JKsHZJ76UlhTGqjIp/giphy.gif" width="40%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdnaDNrOHNvZmE0amlyYzN1MGhxMWxpcno3cnN3eXMwaDIwYWo3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9JKsHZJ76UlhTGqjIp/giphy.gif" width="20%"/>
 
 <sub><i>"I am the number one most impactful artist of our generation. I am Shakespeare in the flesh, Walt Disney... Nike... Google... Now who's gonna be the Medici family, and stand up and let me create more?"</i></sub>
 
