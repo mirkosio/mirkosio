@@ -15,7 +15,7 @@
 [![](https://skillicons.dev/icons?i=git,github,linux,bash,arduino&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=vscode,obsidian,photoshop,figma,powershell,visualstudio,md&theme=dark)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,cachy,debian&theme=dark)](https://skillicons.dev)
 
 ![](https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png)
 
