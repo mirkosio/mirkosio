@@ -17,7 +17,7 @@
 [![](https://skillicons.dev/icons?i=vscode,obsidian,photoshop,figma,powershell,visualstudio,md&theme=dark)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
 
-![]((https://raw.githubusercontent.com/BlackArch/blackarch-artwork/master/logo/ba-font-transp.png)
+![](https://raw.githubusercontent.com/BlackArch/blackarch-artwork/master/logo/ba-font-transp.png)
 
 ### Skills/Interests
 
