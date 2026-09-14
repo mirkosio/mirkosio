@@ -18,8 +18,7 @@
 [![](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
 
 ![](https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png)
-![](<img width="250" height="250" alt="BlackArch_logo-removebg-preview" src="https://github.com/user-attachments/assets/55a0cb25-7779-4f52-802e-28df398c8bde" />
-)
+![]()
 
 ### Skills/Interests
 
