@@ -14,8 +14,8 @@
 [![](https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=git,github,linux,bash,arduino&theme=dark)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=vscode,obsidian,photoshop,figma,powershell,visualstudio,md&theme=dark)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=windows,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,obsidian,premier,powershell,visualstudio,md&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=windows,fedora,arch,kali,ubuntu,debian&theme=dark)](https://skillicons.dev)
 
 ![](BA-red-nobg.png)
 
