@@ -23,11 +23,11 @@
 
 <div align="center">
 
-<sub>01 · languages</sub><br/>
+<sub>languages</sub><br/>
 <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,java,c,cpp,bash&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS, Java, C, C++, Bash"/><br/>
-<sub>02 · frameworks & data</sub><br/>
+<sub>frameworks & data</sub><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flutter,sqlite,postgres,git,github,linux,arduino,md&theme=dark" alt="FastAPI, Flutter, SQLite, PostgreSQL, Git, GitHub, Linux, Arduino, Markdown"/><br/>
-<sub>03 · systems & tools</sub><br/>
+<sub>systems & tools</sub><br/>
 <img src="icons/systems-tools.png" height="48" alt="Fedora, KDE, Windows, Waydroid, Packet Tracer, Premiere Pro"/>
 
 </div>
