@@ -11,33 +11,36 @@
 
 </div>
 
-## about
+<h2 align="center">about</h2>
 
-> Diventa ciò che sei. <sub><i>Become who you are.</i></sub>
-> — Friedrich Nietzsche
+<p align="center">
+  <i>“Diventa ciò che sei.”</i><br/>
+  <sub><i>Become who you are.</i></sub><br/>
+  <sub>— Friedrich Nietzsche</sub>
+</p>
 
-## stack
+<h2 align="center">stack</h2>
 
 <div align="center">
 
-<sub>languages</sub><br/>
+<sub>01 · languages</sub><br/>
 <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,java,c,cpp,bash&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS, Java, C, C++, Bash"/><br/>
-<sub>frameworks & data</sub><br/>
+<sub>02 · frameworks & data</sub><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flutter,sqlite,postgres,git,github,linux,arduino,md&theme=dark" alt="FastAPI, Flutter, SQLite, PostgreSQL, Git, GitHub, Linux, Arduino, Markdown"/><br/>
-<sub>systems & tools</sub><br/>
+<sub>03 · systems & tools</sub><br/>
 <img src="icons/systems-tools.png" height="48" alt="Fedora, KDE, Windows, Waydroid, Packet Tracer, Premiere Pro"/>
 
 </div>
 
-## projects
+<h2 align="center">projects</h2>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons/blance-dark.svg">
   <img src="icons/blance-light.svg" width="46" alt="B-Lance"/>
-</picture><br/>
-<b>B-Lance</b><br/>
+</picture>
+<h3 align="center">B-Lance</h3>
 Dividi le spese, non le amicizie. Android + web, 125 valute, split minimo dei bonifici.<br/>
 <sub><i>Split expenses, not friendships. Android + web, 125 currencies, fewest transfers.</i></sub><br/>
 <sub>Flutter · FastAPI · SQLite/PostgreSQL · Vercel</sub><br/>
@@ -45,12 +48,12 @@ Dividi le spese, non le amicizie. Android + web, 125 valute, split minimo dei bo
 
 </div>
 
-## contact
+<h2 align="center">contact</h2>
 
 <div align="center">
 
 <sub>scrivimi · write me</sub><br/>
-<a href="https://github.com/mirkosio"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="28" height="28" alt="GitHub"/></a>&nbsp;<a href="https://discord.com/users/mirkosio"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="28" height="28" alt="Discord"/></a>&nbsp;<a href="https://instagram.com/055_mirko"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="28" height="28" alt="Instagram"/></a>
+<a href="https://github.com/mirkosio"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32" height="32" alt="GitHub"/></a>&nbsp;<a href="https://discord.com/users/mirkosio"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="32" height="32" alt="Discord"/></a>&nbsp;<a href="https://instagram.com/055_mirko"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="32" height="32" alt="Instagram"/></a>
 
 </div>
 
