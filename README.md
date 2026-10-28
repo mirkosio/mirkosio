@@ -29,9 +29,9 @@
 <div align="center">
 
 <sub><samp>languages</samp></sub><br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,java,c,cpp,bash&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS, Java, C, C++, Bash"/><br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,java,c,cpp,kotlin,bash&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS, Java, C, C++, Bash"/><br/>
 <sub><samp>frameworks & data</samp></sub><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flutter,sqlite,postgres,git,github,linux,arduino,md&theme=dark" alt="FastAPI, Flutter, SQLite, PostgreSQL, Git, GitHub, Linux, Arduino, Markdown"/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flutter,dart,sqlite,postgres,git,github,linux,arduino,md&theme=dark" alt="FastAPI, Flutter, SQLite, PostgreSQL, Git, GitHub, Linux, Arduino, Markdown"/><br/>
 <sub><samp>systems & tools</samp></sub><br/>
 <img src="icons/systems-tools.png" height="48" alt="Fedora, KDE, Windows, Waydroid, Packet Tracer, Premiere Pro"/>
 
