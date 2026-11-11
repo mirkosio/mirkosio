@@ -11,7 +11,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=800&color=7C9CFF&center=true&vCenter=true&width=360&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20flutter&repeat=false">
   <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=800&color=3B5BDB&center=true&vCenter=true&width=360&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20flutter&repeat=false">
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=7C9CFF&center=true&vCenter=true&width=640&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20fastapi%20%C2%B7%20flutter%20%C2%B7%20sql&repeat=false">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=3B5BDB&center=true&vCenter=true&width=640&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20fastapi%20%C2%B7%20flutter%20%C2%B7%20sql&repeat=false" alt="Linux, Python, ,networks, FastAPI, Flutter, SQL"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=3B5BDB&center=true&vCenter=true&width=640&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20fastapi%20%C2%B7%20flutter%20%C2%B7%20sql&repeat=false" alt="Linux, Python, ,Networks, FastAPI, Flutter, SQL"/>
 </picture>
 
 </div>
