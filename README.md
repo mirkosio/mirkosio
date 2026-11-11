@@ -8,59 +8,103 @@
 <h1>Mirko</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=800&color=7C9CFF&center=true&vCenter=true&width=360&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20flutter&repeat=false">
-  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=800&color=3B5BDB&center=true&vCenter=true&width=360&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20flutter&repeat=false">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=7C9CFF&center=true&vCenter=true&width=640&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20fastapi%20%C2%B7%20flutter%20%C2%B7%20sql&repeat=false">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=3B5BDB&center=true&vCenter=true&width=640&lines=linux%20%C2%B7%20python%20%C2%B7%20reti%20%C2%B7%20fastapi%20%C2%B7%20flutter%20%C2%B7%20sql&repeat=false" alt="Linux, Python, ,Networks, FastAPI, Flutter, SQL"/>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=900&color=7C9CFF&center=true&vCenter=true&width=340&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false">
+  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=900&color=3B5BDB&center=true&vCenter=true&width=340&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=900&color=7C9CFF&center=true&vCenter=true&width=520&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=900&color=3B5BDB&center=true&vCenter=true&width=520&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false" alt="Software, networks, systems"/>
 </picture>
 
-</div>
-
-<h2 align="center">about</h2>
-
-<p align="center">
-  <i>“Diventa ciò che sei.”</i><br/>
-  <sub><i>Become who you are.</i></sub><br/>
-  <sub>— Friedrich Nietzsche</sub>
+<p>
+  <a href="#about"><samp>about</samp></a> &nbsp;·&nbsp;
+  <a href="#stack"><samp>stack</samp></a> &nbsp;·&nbsp;
+  <a href="#projects"><samp>projects</samp></a> &nbsp;·&nbsp;
+  <a href="#contact"><samp>contact</samp></a>
 </p>
 
-<h2 align="center">stack</h2>
+</div>
+
+<h3 id="about" align="center"><samp>about</samp></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/divider-dark.svg">
+  <img src="icons/divider-light.svg" width="100%" alt=""/>
+</picture>
+
+<p align="center">
+  <i>“Whoever wishes to foresee the future must consult the past;<br/>
+  for human events ever resemble those of preceding times.”</i><br/>
+  <sub>— Niccolò Machiavelli, <i>Discourses on Livy</i></sub>
+</p>
+
+<h3 id="stack" align="center"><samp>stack</samp></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/divider-dark.svg">
+  <img src="icons/divider-light.svg" width="100%" alt=""/>
+</picture>
 
 <div align="center">
 
-<sub><samp>languages</samp></sub><br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,java,c,cpp,kotlin,bash&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS, Java, C, C++, Bash"/><br/>
-<sub><samp>frameworks & data</samp></sub><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flutter,dart,sqlite,postgres,git,github,linux,arduino,md&theme=dark" alt="FastAPI, Flutter, SQLite, PostgreSQL, Git, GitHub, Linux, Arduino, Markdown"/><br/>
-<sub><samp>systems & tools</samp></sub><br/>
-<img src="icons/systems-tools.png" height="48" alt="Fedora, KDE, Windows, Waydroid, Packet Tracer, Premiere Pro"/>
+<p>
+  <sub><samp>languages</samp></sub><br/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" width="228" alt="Python, TypeScript, JavaScript, HTML, CSS"/><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,c,cpp,bash" width="228" alt="Kotlin, Java, C, C++, Bash"/>
+</p>
+
+<p>
+  <sub><samp>frameworks, data &amp; tools</samp></sub><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flutter,dart,sqlite,postgres,git,arduino" width="321" alt="FastAPI, Flutter, Dart, SQLite, PostgreSQL, Git, Arduino"/>
+</p>
 
 </div>
 
-<h2 align="center">projects</h2>
+<h3 id="projects" align="center"><samp>projects</samp></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/divider-dark.svg">
+  <img src="icons/divider-light.svg" width="100%" alt=""/>
+</picture>
 
 <div align="center">
 
-<p align="center"><sub><samp>selected project</samp></sub></p>
+<p><sub><samp>selected work</samp></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons/blance-dark.svg">
-  <img src="icons/blance-light.svg" width="46" alt="B-Lance"/>
+  <img src="icons/blance-light.svg" width="48" alt="B-Lance"/>
 </picture>
+
 <h3 align="center">B-Lance</h3>
-Dividi le spese, non le amicizie. Android + web, 125 valute, split minimo dei bonifici.<br/>
-<sub><i>Split expenses, not friendships. Android + web, 125 currencies, fewest transfers.</i></sub><br/>
-<sub><samp>Flutter · FastAPI · SQLite/PostgreSQL · Vercel</samp></sub><br/>
-<a href="https://github.com/mirkosio/b-lance">repo →</a>
+
+<p>
+  Split expenses, not friendships.<br/>
+  <sub>Android + web · 125 currencies · fewest transfers</sub>
+</p>
+
+<p><sub><samp>Flutter · FastAPI · SQLite / PostgreSQL · Vercel</samp></sub></p>
+
+<p><a href="https://github.com/mirkosio/b-lance"><samp>repository →</samp></a></p>
 
 </div>
 
-<h2 align="center">contact</h2>
+<h3 id="contact" align="center"><samp>contact</samp></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/divider-dark.svg">
+  <img src="icons/divider-light.svg" width="100%" alt=""/>
+</picture>
 
 <div align="center">
 
-<sub><samp>scrivimi · write me</samp></sub><br/>
-<a href="https://github.com/mirkosio"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32" height="32" alt="GitHub"/></a>&nbsp;<a href="https://discord.com/users/mirkosio"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="32" height="32" alt="Discord"/></a>&nbsp;<a href="https://instagram.com/055_mirko"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="32" height="32" alt="Instagram"/></a>
+<p><sub><samp>write me</samp></sub></p>
+
+<p>
+  <a href="https://github.com/mirkosio" title="GitHub"><img src="https://cdn.simpleicons.org/github/4F6FE8" width="28" height="28" alt="GitHub"/></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/mirkosio" title="Discord"><img src="https://cdn.simpleicons.org/discord/4F6FE8" width="28" height="28" alt="Discord"/></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/055_mirko" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/4F6FE8" width="28" height="28" alt="Instagram"/></a>
+</p>
 
 </div>
 
