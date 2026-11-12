@@ -11,7 +11,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=900&color=7C9CFF&center=true&vCenter=true&width=340&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false">
   <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=900&color=3B5BDB&center=true&vCenter=true&width=340&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false">
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=900&color=7C9CFF&center=true&vCenter=true&width=520&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=900&color=3B5BDB&center=true&vCenter=true&width=520&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false" alt="Software, networks, systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=900&color=3B5BDB&center=true&vCenter=true&width=520&lines=software%20%C2%B7%20networks%20%C2%B7%20systems&repeat=false" alt="Mirko <br> Software, networks, systems"/>
 </picture>
 
 <p>
