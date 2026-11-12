@@ -31,9 +31,8 @@
 </picture>
 
 <p align="center">
-  <i>“Whoever wishes to foresee the future must consult the past;<br/>
-  for human events ever resemble those of preceding times.”</i><br/>
-  <sub>— Niccolò Machiavelli, <i>Discourses on Livy</i></sub>
+  <i>“Never was anything great achieved without danger.”</i><br/>
+  <sub>— Niccolò Machiavelli, <i>The Prince</i></sub>
 </p>
 
 <h3 id="stack" align="center"><samp>stack</samp></h3>
