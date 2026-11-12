@@ -103,7 +103,7 @@
   &nbsp;&nbsp;
   <a href="https://discord.com/users/mirkosio" title="Discord"><img src="https://cdn.simpleicons.org/discord/4F6FE8" width="28" height="28" alt="Discord"/></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/055_mirko" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/4F6FE8" width="28" height="28" alt="Instagram"/></a>
+  <a href="https://instagram.com/iluvmirko" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/4F6FE8" width="28" height="28" alt="Instagram"/></a>
 </p>
 
 </div>
