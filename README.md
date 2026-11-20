@@ -70,7 +70,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons/blance-scale-dark.svg">
-  <img src="icons/blance-scale-light.svg" width="48" alt="b-lance"/>
+  <img src="icons/blance-scale-light.svg" width="72" alt="b-lance"/>
 </picture>
 
 <h3 align="center">B-Lance</h3>
