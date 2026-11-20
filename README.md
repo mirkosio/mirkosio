@@ -69,8 +69,8 @@
 <p><sub><samp>selected work</samp></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="icons/blance-scale-dark.svg">
-  <img src="icons/blance-scale-light.svg" width="72" alt="b-lance"/>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/blance-lockup-dark-v2.svg">
+  <img src="icons/blance-lockup-light-v2.svg" width="260" alt="b-lance"/>
 </picture>
 
 <h3 align="center">B-Lance</h3>
