@@ -73,8 +73,6 @@
   <img src="icons/blance-lockup-light-v2.svg" width="260" alt="b-lance"/>
 </picture>
 
-<h3 align="center">B-Lance</h3>
-
 <p>
   Split expenses, not friendships.<br/>
   <sub>Android + web · 125 currencies · fewest transfers</sub>
